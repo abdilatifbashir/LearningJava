@@ -1,0 +1,1 @@
+Exercise 12 to 16 are all JavaDoc exercises and there's no need to do them repeatedly.Knowing how to write JavaDoc is enough.
